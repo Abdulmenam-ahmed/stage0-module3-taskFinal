@@ -21,3 +21,4 @@ rest-client.env.json
 
 # BTM files created while running sever
 *.btm
+/bin/
